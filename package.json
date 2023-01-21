@@ -1,0 +1,28 @@
+{
+  "name": "jatin-portfolio-api",
+  "version": "1.0.0",
+  "description": "api of portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xjatin813@bitbucket.org/devxjatin813/jatin-portfolio-api.git"
+  },
+  "author": "jatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/devxjatin813/jatin-portfolio-api/issues"
+  },
+  "homepage": "https://bitbucket.org/devxjatin813/jatin-portfolio-api#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cookieparser": "^0.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "env": "^0.0.2",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.0"
+  }
+}
